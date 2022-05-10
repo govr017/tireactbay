@@ -61,9 +61,21 @@ body {
   color:rgb(70, 169, 214);
   opacity: 50%;
 }
-.download {
+.download1 {
   background-color: #ecc7ad;
   font-size: 25px;
   border-radius: 5px;
   border: solid #dc9f73 6px;
+  margin-bottom: 0px;
+  color: rgb(255, 112, 102);
+  margin-right: 180px;
+}
+.download {
+  margin-top: -140px;
+  background-color: #ecc7ad;
+  font-size: 25px;
+  border-radius: 5px;
+  border: solid #dc9f73 6px;
+  color: rgb(255, 112, 102);
+  margin-right: 180px;
 }
